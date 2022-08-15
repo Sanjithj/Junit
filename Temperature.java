@@ -9,5 +9,6 @@ public class Temperature {
 	          Fahrenheit =((Celsius*9)/5)+32;  
 	          System.out.println("Fahrenheit is: "+Fahrenheit);  
 	    }  
+	 
 
 }
